@@ -2,7 +2,7 @@
 
 Hi world,
 
-This is Siyi. This is my first day in Github and found here so cool. 
+This is Siyi here. It is my first day in Github and found here so cool. 
 
 I'm typying at a Costa near my living place. Here is like my little corner where I can work on my own stuffs, though not that much quiet. 
 
